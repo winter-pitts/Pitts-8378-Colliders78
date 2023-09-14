@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2624001452895589531}
   - component: {fileID: 5947782876237939433}
   - component: {fileID: 7827364591455482041}
+  - component: {fileID: 6697844804788930511}
   m_Layer: 0
   m_Name: Paddle
   m_TagString: Untagged
@@ -141,3 +142,15 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: bfdd027ded2b45847a71b641fce5e851, type: 2}
+--- !u!114 &6697844804788930511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2473271816975580977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df96669965cb4d29a0176903c854365a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
